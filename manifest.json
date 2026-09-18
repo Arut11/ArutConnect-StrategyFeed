@@ -1,0 +1,22 @@
+{
+  "Schema": 1,
+  "FeedId": "arut-connect-strategy-feed",
+  "PackVersion": "2026.09.18.1",
+  "MinAppVersion": "1.1.4",
+  "GeneratedUtc": "2026-09-18T00:00:00Z",
+  "KeyId": "arut-feed-rsa-2026-01",
+  "Strategies": [
+    {
+      "Id": "arut-online-voice-hostfakesplit-ts",
+      "Version": 1,
+      "File": "strategies/arut-online-voice-hostfakesplit-ts.json",
+      "Sha256": "2704e56cd848d8c5755b0a4747153a9d1ec35e00300cfd2e366d4c495da5cf6a"
+    },
+    {
+      "Id": "arut-online-voice-fakedsplit-ts",
+      "Version": 1,
+      "File": "strategies/arut-online-voice-fakedsplit-ts.json",
+      "Sha256": "04d307de9302cf68bc132a15a1ab6c745b81268e2cac45073b1d98ce2c951a76"
+    }
+  ]
+}
