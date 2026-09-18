@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "FeedId": "arut-connect-app-update",
+  "Channel": "stable",
+  "LatestVersion": "1.1.4",
+  "PublishedUtc": "2026-09-18T12:03:00Z",
+  "ReleasePageUrl": "",
+  "InstallerUrl": "",
+  "InstallerSha256": "",
+  "Notes": "Текущая стабильная версия Arut Connect."
+}
