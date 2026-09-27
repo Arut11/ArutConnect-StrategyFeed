@@ -2,10 +2,10 @@
     "Schema":  1,
     "FeedId":  "arut-connect-app-update",
     "Channel":  "stable",
-    "LatestVersion":  "1.2.1",
-    "PublishedUtc":  "2026-09-19T22:44:02Z",
-    "ReleasePageUrl":  "https://github.com/Arut11/ArutConnect-StrategyFeed/releases/tag/v1.2.1",
-    "InstallerUrl":  "https://github.com/Arut11/ArutConnect-StrategyFeed/releases/download/v1.2.1/ArutConnectSetup.exe",
-    "InstallerSha256":  "419eeda34f7f2840cf81961e41a90afe6adaeb696e333a4720d13b33572d2330",
-    "Notes":  "Arut Connect 1.2.1"
+    "LatestVersion":  "1.2.2",
+    "PublishedUtc":  "2026-09-27T17:30:38Z",
+    "ReleasePageUrl":  "https://github.com/Arut11/ArutConnect-StrategyFeed/releases/tag/v1.2.2",
+    "InstallerUrl":  "https://github.com/Arut11/ArutConnect-StrategyFeed/releases/download/v1.2.2/ArutConnectSetup.exe",
+    "InstallerSha256":  "9e71919a9ea37bb9e42a45bd9ff2575f1bd4a61354ee0f2d630a735233cc9173",
+    "Notes":  "Arut Connect 1.2.2"
 }
